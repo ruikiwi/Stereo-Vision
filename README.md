@@ -1,5 +1,4 @@
-**Stereo Correspondence Project
-**Overview
+Stereo Vision Project
 
 This project explores stereo correspondence, focusing on the implementation and comparison of two algorithms: Block Matching and Graph Cuts. Stereo correspondence is crucial in computer vision for reconstructing 3D models from stereo image pairs by finding pixel-to-pixel correspondence.
 
@@ -10,13 +9,17 @@ Graph Cuts: Utilizes energy minimization techniques, specifically Markov Random 
 Datasets
 Middlebury 2014 Stereo Datasets with Ground Truth: "Piano," "Backpack," "Umbrella," "Flowers."
 
-Results
-Block Matching offers faster, simpler computation but struggles with edge accuracy and textureless regions.
-Graph Cuts produces smoother disparity maps and performs better in textureless areas but is computationally intensive.
-
-
 Set up the environment in conda
 > conda env create -f project.yml
 
 Activate the environment:
 > conda activate cv_proj
+
+Results
+
+
+
+
+References
+Fast Approximate Energy Minimization via Graph Cuts
+Middlebury 2014 Stereo Datasets
