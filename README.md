@@ -9,7 +9,7 @@ Graph Cuts: Utilizes energy minimization techniques, specifically Markov Random 
 The algorithm implemented is described in [Boykov et. al.'s graph cut method](https://doi.org/10.1109/34.969114).
 
 ### **Datasets**
-[Middlebury 2014 Stereo Datasets with Ground Truth](https://vision.middlebury.edu/stereo/data/scenes2014/): "Piano," "Backpack," "Umbrella," "Flowers." 
+[Middlebury 2014 Stereo Datasets with Ground Truth](https://vision.middlebury.edu/stereo/data/scenes2014/)
 
 ### **Setup**
 Set up the environment in conda:
