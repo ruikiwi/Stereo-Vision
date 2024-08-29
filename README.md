@@ -1,6 +1,6 @@
 ## **Stereo Vision Project**
 
-This project explores stereo correspondence, focusing on the implementation and comparison of two algorithms: Block Matching and Graph Cuts. Stereo correspondence is crucial in computer vision for reconstructing 3D models from stereo image pairs by finding pixel-to-pixel correspondence.
+This project explores stereo correspondence, focusing on the implementation and comparison of two algorithms in python: Block Matching and Graph Cuts. Stereo correspondence is crucial in computer vision for reconstructing 3D models from stereo image pairs by finding pixel-to-pixel correspondence.
 
 ### **Methods**
 Block Matching: Uses a sliding window and cost functions like Sum of Squared Differences (SSD) to compute disparity.
