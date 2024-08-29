@@ -1,0 +1,14 @@
+name: cs6476
+channels:
+  - defaults
+dependencies:
+  - numba=0.58.1
+  - numpy=1.24.3
+  - pip=23.3.1
+  - python=3.8.18
+  - scipy=1.10.1
+  - pip:
+      - networkx==3.1
+      - opencv-contrib-python==4.6.0.66
+      - pymaxflow==1.2.11
+      - scikit-image==0.21.0
